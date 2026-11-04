@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "国贸店" },
+      "geometry": { "type": "Point", "coordinates": [116.465, 39.909] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "王府井店" },
+      "geometry": { "type": "Point", "coordinates": [116.418, 39.915] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "中关村店" },
+      "geometry": { "type": "Point", "coordinates": [116.316, 39.982] }
+    }
+  ]
+}
